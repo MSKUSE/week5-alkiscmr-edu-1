@@ -8,6 +8,7 @@ public class Main {
     else{
         System.out.println("b");
     }
+        System.out.println("2. update");
 
 }
 }
